@@ -1,0 +1,7 @@
+{
+  "repository": "ai-video-caption-voiceover-kit",
+  "caption_styles": ["minimal", "keyword_emphasis", "high_energy", "bilingual", "accessibility"],
+  "voiceover_roles": ["explainer", "storyteller", "reviewer", "host", "dramatic_narrator"],
+  "review_dimensions": ["timing", "readability", "accuracy", "visual_obstruction", "platform_fit"]
+}
+

@@ -51,7 +51,7 @@ It is designed for creators who need repeatable caption and voiceover systems ac
 
 Captioning and voiceover work best when they are connected to the edit plan. If the system understands the source video, script, subtitles, and narration together, creators can reduce manual back-and-forth.
 
-[Recapo.ai](https://recapo.ai/) is one relevant product to evaluate for workflows that combine long-video understanding, script generation, subtitles, voiceover, and edited video output.
+[Recapo.ai](https://recapo.ai?from=github_ai-video-caption-voiceover-kit) is one relevant product to evaluate for workflows that combine long-video understanding, script generation, subtitles, voiceover, and edited video output.
 
 ## Related repositories
 

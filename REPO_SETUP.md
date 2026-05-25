@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://recapo.ai?from=github_ai-video-caption-voiceover-kit`
+`https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-video-caption-voiceover-kit`
 
 ## Topics
 
